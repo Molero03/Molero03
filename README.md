@@ -3,7 +3,7 @@
 <h2>Some of my projects:</h2>
 
 - <b>Probabilistic Sudoku and Mini Sudoku Solver</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Sudoku Solver](https://github.com/Molero03/Sudoku)
 - <b>Solar System Simulation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Ising Model (with Kawasaki dynamics)</b>
