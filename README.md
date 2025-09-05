@@ -12,11 +12,11 @@
   
 - <b>Charged Particles System</b>
   - [Charged Particles](https://github.com/Molero03/Particles)
-- <b>Jump Detection in Glassy Systems</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Jumps Detection in Glassy Systems</b>
+  - [Jumps Detection](https://github.com/Molero03/Jumps)
 
 
-
+You can contact me by email: moleropablo@gmail.com
 
 
 <!--
