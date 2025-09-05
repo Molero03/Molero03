@@ -6,11 +6,10 @@
   - [Sudoku Solver](https://github.com/Molero03/Sudoku)
 - <b>Solar System Simulation</b>
   - [Solar System](https://github.com/Molero03/Planets)
-- <b>Ising Model (with Kawasaki dynamics)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Ising Model (2D)</b>
+  - [Ising Model with Nonconserved Dynamics](https://github.com/Molero03/Ising)
+  - [Ising Model with Kawasaki Dynamics](https://github.com/Molero03/Kawasaki)
+  
 - <b>Charged Particles System</b>
   - [Charged Particles](https://github.com/Molero03/Particles)
 - <b>Jump Detection in Glassy Systems</b>
